@@ -19,7 +19,10 @@
 - **UI**: Tạo bởi NetBean
 
 ## 📸 Giao diện (Screenshot)
-![Screenshot 2025-06-16 101256](https://github.com/user-attachments/assets/dd581f7f-4d74-4d1f-8533-e111c7d31161)
+
+![Screenshot 2025-06-16 101256](https://github.com/user-attachments/assets/fde35460-722d-4a45-8f6b-953934b89eb3)
+
+ 
 ## ▶️ Cách sử dụng
 
 1. Mở ứng dụng
